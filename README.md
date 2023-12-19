@@ -8,9 +8,7 @@ It is written in Java and uses HttpURLConnection for downloading files.
 The user interface is created using Swing controls.
 
 Usage
-----------------
-
-Download executable jar from [Releases](https://github.com/praharshjain/Download-Manager/releases)
+---------------
 
 Or build from source :  
 
@@ -29,10 +27,3 @@ Screenshot
 ----------------  
 <img src="https://github.com/praharshjain/Download-Manager/blob/master/screenshot.png" width="1200">
   
-License
-----------------
-MIT
-
-
-## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpraharshjain%2FDownload-Manager.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpraharshjain%2FDownload-Manager?ref=badge_large)
